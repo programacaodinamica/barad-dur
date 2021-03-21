@@ -1,0 +1,764 @@
+@Willian_justen Já recomendei vários cursos Python, Java e outras linguagens para amigos, mas posso ter certeza que esse curso ou produto não será o caso!meu olhos n brilham nem um pouco pra pythonRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Visualizando TWEETS com Nuvens de Palavras em Python | Python na Prática (Bom demais!!)Programe em Python News já saiu! https://t.co/hsk5vR6dIP Graças a @SciPyTipIntroduction of deep learning with python finalizada. Ainda meio capenga, mas acho que entendi o suficiente de Keras e como construir uma rede neural. Agora é ver uns vídeozinhos da batalha da aldeia enquanto a patroa não chega em casa.#365DaysOfCode #100DaysOfCode #Python #kaggle 79
+Principal Component Analysis (PCA): Intro
+#pythonprogramming for #DataScienceterminei meu projetinho em python 🥺🥺🥺🥺🥺@EnzoBolseiro TUDOO ? PQP CONSIDERO PAKAS MSM!
+depende, aplicações web javascript 
+interface java e python 
+pra fazer uns programinhas c e c++
+eu amo c++ já falei isso neah kkkkkk pq ????RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…eu não sou mto fã de MVC etc então não posso opinar se o do Django é o melhor/pior etc
+
+mas o do node com certeza é mais versátil (pra mim)
+
+porém talvez seja alguma limitação do django, talvez com o python puro seja diferente? talvez com algum framework do node mais fechado tb?ao contrário do meu BELOVED nodejs, o Django (e qualquer app python) armazena as dependências dentro da pasta venv (tal qual a node_module)
+
+a diferença é que vc precisa dessa venv pra rodar a aplicação, inclusive pra instalar dependências através do PIP (package manager)Esse fim de semana eu serei um Nerd feliz estudando coisas que eu gosto: Blockchain, BI, Costumes Experience Management, Design Thinking, DevOps &amp; Agile, Mobile Marketing, Python, Soluções Tecnológicas Emergentes e User Experience.
+
+A parte boa da quarentena. ♥️um tanto quanto complexo um projeto web no Python (pitãozim pros íntimo)RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa aleatoria.
+
+Entra aí: https://t.co/XwJnOFm0SS
+
+#Twitch #live https://t.co/KOZYxl3ACWQual tipo de automação você tem ou gostaria de ter interagindo com #github 🐙?
+
+Criei algumas aqui https://t.co/qf4bqugCxp para agilizar o meu dia a dia e estou querendo completar a coleção com outras ideias para praticar com #python 🐍5 atividades com python pra fazer e eu nem lembro como criar uma classe nessa bosta, vou me j urgentemente ifma segure esse peso das costas https://t.co/f4gL7rQjW1@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Historiador em 1974: https://t.co/VMpfWkwdef@occfelipe nem sei se vale a pena começar por java, eu so comecei mais pelo python por causa de uns caras aq no twitter, so dps de uns 2 meses fui ver java e parei de tentar decorar coding quando fui na pratica@occfelipe um exemplo seria um encrypt/decrypt de algum codigo/chave, se ce ja tiver a base de alguma das "linhas", ja fica facil em python, em java é quase o mesmo, mas ele tem uns comandos especificos pra açoes maiores, ai o import fica que nem essa primeira, mas nao é grande diferença https://t.co/2InhJr9f05Olá pessoal, há um tempo eu criei publicações no Medium para auxiliar em trabalhos repetitivos realizados em nosso dia a dia e que podem ser agilizados com o uso do desenvolvimento. Vá lá conferir:
+- https://t.co/O0Xvc9X7yu
+- https://t.co/O1QpmpKe9L
+#Python  #DEVCommunity #dev@occfelipe tipo, se ce começar com python, fica meio de dificil de decorar java ou seila, mas dependeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@bochagas ahhh é de um rolê bem específico do python. Consegui tirar um loop, foi basicamente isso 🤙instalando Ubuntu de novo e me sentindo no primeiro ano novamente pq n lembro nada de python@alveselvis2 Não! Faz mais de um ano em que eu precisei escrever um loop em R. Em Python faz alguns meses, mas foi por preguiça mesmo.Minha orientadora passou uma atividade pra eu processar um sinal de voz usando python. Eu processei. Quando fui apresentar ela perguntou onde estava o gráfico com o resultado. Acontece que ela não pediu pra eu plotar o resultado, pediu pra eu processar. Ela pediu desculpas@KimJoaoUn "eu vejo um loop, eu tilto" -- vc não usa loops at all? que legal, nunca uso map, vou começar a só usar map/filter (python) pra treinar. adorei o texto!@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+"O cartunista" em 1974: https://t.co/gDx8joISZeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@twtinvest Livro excelente com explicações matemáticas e códigos em Python https://t.co/yDxOmnCEYuMessias Recrutamento &amp; Seleção: Especialista Desenvolvedor(a) Python https://t.co/xaYlQG87wRVivi pra ver minha mãe rindo da piada do “Grandis Pintus” de Monty PythonRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qank@Willian_justen Ele se esqueceu de falar que JS está em tudo, e dependendo de que trilha Python os alunos dele irão seguir, vão ter que aprender JS hahaswitch case em python vai me ajudar tanto pqpRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qankToda vez que eu leio "Phyton" em algum lugar, principalmente em material acadêmico, sinto que perco um pouco da minha humanidade. #Python*Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qanktudo tranquilo joão? vc acha mais tranquilo aprender SQL como primeira linguagem do que pegar R ou python pra apr… — Opa beleza. Acho mais tranquilo sim, complicado eh aplicar o conhecimento sem programar em nada. Mas sim, muito u… https://t.co/IDWYfi779BRT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…Todo dia isso. 🤦
+
+#linux #python #programador https://t.co/E0aSOqYcK9Se strings em Python são imutáveis, como conseguimos alterá-la com o método replace()? https://t.co/nZbTti6PQZ #pythonaprox 3hr tentando achar o erro no meu codigo - tava rodando python 2 em vez de 3
+
+parabens p mim mais uma vez@tchaguitos Cara, eu tenho muitos cursos de python. Tua forma de explicar é sacanagem. Eu consigo entender. E olha q tenho mil cursos. Sucesso!Ps.: Eu AMO Python e foi uma das primeiras linguagens que aprendi, super gosto e recomendo!
+
+Meu ponto é "ao invés de criar competição e hate, fala das vantagens/desvantagens", você não precisa diminuir outra linguagem para dizer que Python é foda.RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@leonel_shadow Sim, agora mesmo tava tendo conversa sobre dados abertos com vereador Ivan Moraes do PSOL realizado por grupos relacionados com Python. Fora as iniciativas de inclusão como Afro Python, PyLadies entre outras com o objetivo de discutir a área.RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Gosto que grande parte da comunidade de Python é de esquerda.Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor que JS".
+
+Ao invés de criar competição entre linguagens, fala só das vantagens da linguagem, essa mania de diminuir algo para "crescer em cima" é péssimo!gente quem sabe mexer no python? me ajuda em um condigo PFVR@naoeniveldefibo @Cacomaia @OriqueFernando Bacana demais!! Esses meninos são fera demais! @PelissariSergio me deu um bizu do Python + Mql5 que me ajudou bastante. @OriqueFernando #mincina ! 🙏💫❤️"ain mas nao sabia q ia ter tanta programacao assim"
+
+disciplinas:  "Linguagem de Programação Aplicada: Programação em Python",  "Linguagem R"
+
+achou q ia ter o que???@johnsilvabr @Cacomaia Sim foi por python! Sem a ajuda do @OriqueFernando não teria saído nada, mas agora consigo gerar em qualquer tempo gráfico.Meta de 2021: terminar o ano sabendo muito bem Python, C, C#, MATLAB e outras linguagens. Python e C em andamento.configurando testes pra rodar sempre que rolar um push no develop e pull request pra main nas versoes 3.7, 3.8 e 3.9 do python no github actions em 30 linhas 🤯
+https://t.co/RrLDMig6waConteúdo muito bacana para quem quer aprender sobre análise de sentimentos com Python. 
+Aliás, adorei esse assunto e espero fazer mais coisas sobre em breve
+https://t.co/feXmOJ0WcORT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…@python_volley Também conhecido como Rigatoni.. é um tipo de macarrão. https://t.co/DRhzlegHtHboa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as alunas, a turma é desnivelada e conteúdo dado é conteúdo aprendido.
+Bom ela precisaria de uma pessoa monitora que saiba Python +@thiagoromariz Toda parte da ressurreição do Superman até a batalha final, eu achei ótima. Flash dobrando o tempo é fantástico. Toda parte antes disso é muito monótona. O epílogo é vergonhoso. Não há palavras pra descrever. Tão nonsense quanto o final de Monty Python e o Cálice Sagrado.Meu professor que tá ensinando python é péssimo, n explicou os conceitos, como utilizar comando, nada, maioria da turma nunca programou nada, e até eu, que já sabia um pouco, me fudi pra fazer as coisas, ele já foi explicar direto como fazer cálculos complexos, vsf112 anúncios publicados nas últimas 24 horas no ITJobs #java #.net #react #frontend #outsystems #python #sap #bi #cloud #devops https://t.co/IDQyaaetICtive que desinstalar o python umas 3 vezes? sim
+caguei a configuração do meu pycharm? óbvio
+vou ter que baixar as bibliotecas tudo de novo? claro
+
+mas o importante é que agora da pra brincar com Manim (aparentemente)RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @DicasdeInfra: A Google disponibilizou um programa de cursos integrados que ensinam desde o básico de suporte de TI, automação de TI com…@apertaoesc Eu já perdi amigo porque disse que não curti fazer app em Python com Kivy. 🤷‍♂️@GlairtonS Sim, claro. Dá pra fazer aplicação web com um monte de coisa kkkk
+
+Mas tô falando pra iniciantes mesmo. Python e JS ainda são as melhores (pelo menos pra mim) pra iniciantes aprenderem lógica. JAVA é relativamente confusoEu tenho vontade de aprender e dominar haskell, perl, golang, python e javascrip, php, html e tudo mais... mas ainda estou empacado em C e C++, muito difícil chegar ao estágio de poder dizer que "domina" uma linguagemE eu achando que o final de Monty Python e o Cálice Sagrado era nonsense. #SnyderCutRT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/wVktFLgqup
+
+venham!Eu acabei de descobrir que esse bot foi programado em python, eu sempre me emociono com essas coisas kkkkkkkk https://t.co/nDrFvyzBg8@ramalhoorg Enfim enquanto procurava seu nome até considerei, será que o Luciano seria a pessoa certa pra vir na minha empresa e fazer palestra e ensinar os meus funcionários sobre python? 
+
+Mas... Veio a resposta bem rápido. 
+
+Decepção.@ramalhoorg Mas eu te perdoo pelo que vc disse e fez. 
+
+Peço a Deus que faça o mesmo. 
+
+É sábado de manhã eu estava procurando um livro de python e fiquei feliz de ver um BR sendo recomendado pelos gringos. Mas vc não imagina a minha tristeza em ver esse seu comentário.os dicionários do python são ao mesmo tempo a melhor e a pior coisa da linguagem:
+
+- a melhor pq PUTS o TANTO de coisa que dá pra você fazer trabalhando com eles é imensa, parece q toda a linguagem gira em volta desses dicionários
+- a pior pq PUTS o tanto q é chatim tb...Faltou a última: 
+4) Python é muito melhor😅 https://t.co/SisgdWB6a6medo de conhecer o python e desistir de aprender as outras linguagens de programação...python é tão lindo &lt;3
+
+e honestamente acho que se não fosse pelo react (que eu amo), eu ia começar cagar pro javascript agora...python ou ps5? eis a questãoRT @imexpertsbrasil: Conheça o novo VerticaPy v0.5.
+
+Com o VerticaPy 0.5, é possível implementar modelos de Machine Learning aproveitando o…@wilcorrea Tem que ser muito fdp pra falar algo assim de verdade. Acho que ninguém tem esse direito tá ligado. Por exemplo, minha mãe é advogada por formação. Tá trabalhando com marketing digital agora mas já fez um código Python bolado pra fazer scrap de dados num site de e-sports.RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihW@glimmahstan Já já pedem 10 anos de experiência em Python e que tenha pós graduaçãoHoje dia de Aula para aprender Python, mas não tem Live de Among  :(Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…RT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9DjY8vTa
+
+#Java #Agile #DevOps #Python #Lean #QA #Cloud #MicroService #BlockChain #Kanban https://t.co/Z9A5O5UA4kRT @paanalytics1: 2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em http…@adriaantje_ Minha nossa, isso aí é roteiro de Monty Python, TV Pirata, Casseta e Planeta... Não é possível hahahhahhahahahhahRT @tchaguitos: Meu primeiro curso tá disponível na Udemy! 🎉
+
+Com ele você vai iniciar sua carreira como desenvolvedor web utilizando a lin…2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em https://t.co/7nRSrlUpJ6   #python #datascience #powerbi #datastudio #sql #analytics #datavis #tableau #udemy #hotmart #sympla #cursos #brasil #descontoRT @paanalytics1: 2021-03-20 11:00:06.061228 - Consultoria em Data Science e Analytics: Análise de Dados, Machine Learning, Construção de D…@Willian_justen Já recomendei vários cursos Python, Java e outras linguagens para amigos, mas posso ter certeza que esse curso ou produto não será o caso!meu olhos n brilham nem um pouco pra pythonRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Visualizando TWEETS com Nuvens de Palavras em Python | Python na Prática (Bom demais!!)Programe em Python News já saiu! https://t.co/hsk5vR6dIP Graças a @SciPyTipIntroduction of deep learning with python finalizada. Ainda meio capenga, mas acho que entendi o suficiente de Keras e como construir uma rede neural. Agora é ver uns vídeozinhos da batalha da aldeia enquanto a patroa não chega em casa.#365DaysOfCode #100DaysOfCode #Python #kaggle 79
+Principal Component Analysis (PCA): Intro
+#pythonprogramming for #DataScienceterminei meu projetinho em python 🥺🥺🥺🥺🥺@EnzoBolseiro TUDOO ? PQP CONSIDERO PAKAS MSM!
+depende, aplicações web javascript 
+interface java e python 
+pra fazer uns programinhas c e c++
+eu amo c++ já falei isso neah kkkkkk pq ????RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…eu não sou mto fã de MVC etc então não posso opinar se o do Django é o melhor/pior etc
+
+mas o do node com certeza é mais versátil (pra mim)
+
+porém talvez seja alguma limitação do django, talvez com o python puro seja diferente? talvez com algum framework do node mais fechado tb?ao contrário do meu BELOVED nodejs, o Django (e qualquer app python) armazena as dependências dentro da pasta venv (tal qual a node_module)
+
+a diferença é que vc precisa dessa venv pra rodar a aplicação, inclusive pra instalar dependências através do PIP (package manager)Esse fim de semana eu serei um Nerd feliz estudando coisas que eu gosto: Blockchain, BI, Costumes Experience Management, Design Thinking, DevOps &amp; Agile, Mobile Marketing, Python, Soluções Tecnológicas Emergentes e User Experience.
+
+A parte boa da quarentena. ♥️um tanto quanto complexo um projeto web no Python (pitãozim pros íntimo)RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa aleatoria.
+
+Entra aí: https://t.co/XwJnOFm0SS
+
+#Twitch #live https://t.co/KOZYxl3ACWQual tipo de automação você tem ou gostaria de ter interagindo com #github 🐙?
+
+Criei algumas aqui https://t.co/qf4bqugCxp para agilizar o meu dia a dia e estou querendo completar a coleção com outras ideias para praticar com #python 🐍5 atividades com python pra fazer e eu nem lembro como criar uma classe nessa bosta, vou me j urgentemente ifma segure esse peso das costas https://t.co/f4gL7rQjW1@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Historiador em 1974: https://t.co/VMpfWkwdef@occfelipe nem sei se vale a pena começar por java, eu so comecei mais pelo python por causa de uns caras aq no twitter, so dps de uns 2 meses fui ver java e parei de tentar decorar coding quando fui na pratica@occfelipe um exemplo seria um encrypt/decrypt de algum codigo/chave, se ce ja tiver a base de alguma das "linhas", ja fica facil em python, em java é quase o mesmo, mas ele tem uns comandos especificos pra açoes maiores, ai o import fica que nem essa primeira, mas nao é grande diferença https://t.co/2InhJr9f05Olá pessoal, há um tempo eu criei publicações no Medium para auxiliar em trabalhos repetitivos realizados em nosso dia a dia e que podem ser agilizados com o uso do desenvolvimento. Vá lá conferir:
+- https://t.co/O0Xvc9X7yu
+- https://t.co/O1QpmpKe9L
+#Python  #DEVCommunity #dev@occfelipe tipo, se ce começar com python, fica meio de dificil de decorar java ou seila, mas dependeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@bochagas ahhh é de um rolê bem específico do python. Consegui tirar um loop, foi basicamente isso 🤙instalando Ubuntu de novo e me sentindo no primeiro ano novamente pq n lembro nada de python@alveselvis2 Não! Faz mais de um ano em que eu precisei escrever um loop em R. Em Python faz alguns meses, mas foi por preguiça mesmo.Minha orientadora passou uma atividade pra eu processar um sinal de voz usando python. Eu processei. Quando fui apresentar ela perguntou onde estava o gráfico com o resultado. Acontece que ela não pediu pra eu plotar o resultado, pediu pra eu processar. Ela pediu desculpas@KimJoaoUn "eu vejo um loop, eu tilto" -- vc não usa loops at all? que legal, nunca uso map, vou começar a só usar map/filter (python) pra treinar. adorei o texto!@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+"O cartunista" em 1974: https://t.co/gDx8joISZeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@twtinvest Livro excelente com explicações matemáticas e códigos em Python https://t.co/yDxOmnCEYuMessias Recrutamento &amp; Seleção: Especialista Desenvolvedor(a) Python https://t.co/xaYlQG87wRVivi pra ver minha mãe rindo da piada do “Grandis Pintus” de Monty PythonRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qank@Willian_justen Ele se esqueceu de falar que JS está em tudo, e dependendo de que trilha Python os alunos dele irão seguir, vão ter que aprender JS hahaswitch case em python vai me ajudar tanto pqpRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qankToda vez que eu leio "Phyton" em algum lugar, principalmente em material acadêmico, sinto que perco um pouco da minha humanidade. #Python*Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qanktudo tranquilo joão? vc acha mais tranquilo aprender SQL como primeira linguagem do que pegar R ou python pra apr… — Opa beleza. Acho mais tranquilo sim, complicado eh aplicar o conhecimento sem programar em nada. Mas sim, muito u… https://t.co/IDWYfi779BRT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…Todo dia isso. 🤦
+
+#linux #python #programador https://t.co/E0aSOqYcK9Se strings em Python são imutáveis, como conseguimos alterá-la com o método replace()? https://t.co/nZbTti6PQZ #pythonaprox 3hr tentando achar o erro no meu codigo - tava rodando python 2 em vez de 3
+
+parabens p mim mais uma vez@tchaguitos Cara, eu tenho muitos cursos de python. Tua forma de explicar é sacanagem. Eu consigo entender. E olha q tenho mil cursos. Sucesso!Ps.: Eu AMO Python e foi uma das primeiras linguagens que aprendi, super gosto e recomendo!
+
+Meu ponto é "ao invés de criar competição e hate, fala das vantagens/desvantagens", você não precisa diminuir outra linguagem para dizer que Python é foda.RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@leonel_shadow Sim, agora mesmo tava tendo conversa sobre dados abertos com vereador Ivan Moraes do PSOL realizado por grupos relacionados com Python. Fora as iniciativas de inclusão como Afro Python, PyLadies entre outras com o objetivo de discutir a área.RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Gosto que grande parte da comunidade de Python é de esquerda.Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor que JS".
+
+Ao invés de criar competição entre linguagens, fala só das vantagens da linguagem, essa mania de diminuir algo para "crescer em cima" é péssimo!gente quem sabe mexer no python? me ajuda em um condigo PFVR@naoeniveldefibo @Cacomaia @OriqueFernando Bacana demais!! Esses meninos são fera demais! @PelissariSergio me deu um bizu do Python + Mql5 que me ajudou bastante. @OriqueFernando #mincina ! 🙏💫❤️"ain mas nao sabia q ia ter tanta programacao assim"
+
+disciplinas:  "Linguagem de Programação Aplicada: Programação em Python",  "Linguagem R"
+
+achou q ia ter o que???@johnsilvabr @Cacomaia Sim foi por python! Sem a ajuda do @OriqueFernando não teria saído nada, mas agora consigo gerar em qualquer tempo gráfico.Meta de 2021: terminar o ano sabendo muito bem Python, C, C#, MATLAB e outras linguagens. Python e C em andamento.configurando testes pra rodar sempre que rolar um push no develop e pull request pra main nas versoes 3.7, 3.8 e 3.9 do python no github actions em 30 linhas 🤯
+https://t.co/RrLDMig6waConteúdo muito bacana para quem quer aprender sobre análise de sentimentos com Python. 
+Aliás, adorei esse assunto e espero fazer mais coisas sobre em breve
+https://t.co/feXmOJ0WcORT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…@python_volley Também conhecido como Rigatoni.. é um tipo de macarrão. https://t.co/DRhzlegHtHboa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as alunas, a turma é desnivelada e conteúdo dado é conteúdo aprendido.
+Bom ela precisaria de uma pessoa monitora que saiba Python +@thiagoromariz Toda parte da ressurreição do Superman até a batalha final, eu achei ótima. Flash dobrando o tempo é fantástico. Toda parte antes disso é muito monótona. O epílogo é vergonhoso. Não há palavras pra descrever. Tão nonsense quanto o final de Monty Python e o Cálice Sagrado.Meu professor que tá ensinando python é péssimo, n explicou os conceitos, como utilizar comando, nada, maioria da turma nunca programou nada, e até eu, que já sabia um pouco, me fudi pra fazer as coisas, ele já foi explicar direto como fazer cálculos complexos, vsf112 anúncios publicados nas últimas 24 horas no ITJobs #java #.net #react #frontend #outsystems #python #sap #bi #cloud #devops https://t.co/IDQyaaetICtive que desinstalar o python umas 3 vezes? sim
+caguei a configuração do meu pycharm? óbvio
+vou ter que baixar as bibliotecas tudo de novo? claro
+
+mas o importante é que agora da pra brincar com Manim (aparentemente)RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @DicasdeInfra: A Google disponibilizou um programa de cursos integrados que ensinam desde o básico de suporte de TI, automação de TI com…@apertaoesc Eu já perdi amigo porque disse que não curti fazer app em Python com Kivy. 🤷‍♂️@GlairtonS Sim, claro. Dá pra fazer aplicação web com um monte de coisa kkkk
+
+Mas tô falando pra iniciantes mesmo. Python e JS ainda são as melhores (pelo menos pra mim) pra iniciantes aprenderem lógica. JAVA é relativamente confusoEu tenho vontade de aprender e dominar haskell, perl, golang, python e javascrip, php, html e tudo mais... mas ainda estou empacado em C e C++, muito difícil chegar ao estágio de poder dizer que "domina" uma linguagemE eu achando que o final de Monty Python e o Cálice Sagrado era nonsense. #SnyderCutRT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/wVktFLgqup
+
+venham!Eu acabei de descobrir que esse bot foi programado em python, eu sempre me emociono com essas coisas kkkkkkkk https://t.co/nDrFvyzBg8@ramalhoorg Enfim enquanto procurava seu nome até considerei, será que o Luciano seria a pessoa certa pra vir na minha empresa e fazer palestra e ensinar os meus funcionários sobre python? 
+
+Mas... Veio a resposta bem rápido. 
+
+Decepção.@ramalhoorg Mas eu te perdoo pelo que vc disse e fez. 
+
+Peço a Deus que faça o mesmo. 
+
+É sábado de manhã eu estava procurando um livro de python e fiquei feliz de ver um BR sendo recomendado pelos gringos. Mas vc não imagina a minha tristeza em ver esse seu comentário.os dicionários do python são ao mesmo tempo a melhor e a pior coisa da linguagem:
+
+- a melhor pq PUTS o TANTO de coisa que dá pra você fazer trabalhando com eles é imensa, parece q toda a linguagem gira em volta desses dicionários
+- a pior pq PUTS o tanto q é chatim tb...Faltou a última: 
+4) Python é muito melhor😅 https://t.co/SisgdWB6a6medo de conhecer o python e desistir de aprender as outras linguagens de programação...python é tão lindo &lt;3
+
+e honestamente acho que se não fosse pelo react (que eu amo), eu ia começar cagar pro javascript agora...python ou ps5? eis a questãoRT @imexpertsbrasil: Conheça o novo VerticaPy v0.5.
+
+Com o VerticaPy 0.5, é possível implementar modelos de Machine Learning aproveitando o…@wilcorrea Tem que ser muito fdp pra falar algo assim de verdade. Acho que ninguém tem esse direito tá ligado. Por exemplo, minha mãe é advogada por formação. Tá trabalhando com marketing digital agora mas já fez um código Python bolado pra fazer scrap de dados num site de e-sports.RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihW@glimmahstan Já já pedem 10 anos de experiência em Python e que tenha pós graduaçãoHoje dia de Aula para aprender Python, mas não tem Live de Among  :(Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…RT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9DjY8vTa
+
+#Java #Agile #DevOps #Python #Lean #QA #Cloud #MicroService #BlockChain #Kanban https://t.co/Z9A5O5UA4kRT @paanalytics1: 2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em http…@adriaantje_ Minha nossa, isso aí é roteiro de Monty Python, TV Pirata, Casseta e Planeta... Não é possível hahahhahhahahahhahRT @tchaguitos: Meu primeiro curso tá disponível na Udemy! 🎉
+
+Com ele você vai iniciar sua carreira como desenvolvedor web utilizando a lin…2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em https://t.co/7nRSrlUpJ6   #python #datascience #powerbi #datastudio #sql #analytics #datavis #tableau #udemy #hotmart #sympla #cursos #brasil #descontoRT @paanalytics1: 2021-03-20 11:00:06.061228 - Consultoria em Data Science e Analytics: Análise de Dados, Machine Learning, Construção de D…@Willian_justen Já recomendei vários cursos Python, Java e outras linguagens para amigos, mas posso ter certeza que esse curso ou produto não será o caso!meu olhos n brilham nem um pouco pra pythonRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Visualizando TWEETS com Nuvens de Palavras em Python | Python na Prática (Bom demais!!)Programe em Python News já saiu! https://t.co/hsk5vR6dIP Graças a @SciPyTipIntroduction of deep learning with python finalizada. Ainda meio capenga, mas acho que entendi o suficiente de Keras e como construir uma rede neural. Agora é ver uns vídeozinhos da batalha da aldeia enquanto a patroa não chega em casa.#365DaysOfCode #100DaysOfCode #Python #kaggle 79
+Principal Component Analysis (PCA): Intro
+#pythonprogramming for #DataScienceterminei meu projetinho em python 🥺🥺🥺🥺🥺@EnzoBolseiro TUDOO ? PQP CONSIDERO PAKAS MSM!
+depende, aplicações web javascript 
+interface java e python 
+pra fazer uns programinhas c e c++
+eu amo c++ já falei isso neah kkkkkk pq ????RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…eu não sou mto fã de MVC etc então não posso opinar se o do Django é o melhor/pior etc
+
+mas o do node com certeza é mais versátil (pra mim)
+
+porém talvez seja alguma limitação do django, talvez com o python puro seja diferente? talvez com algum framework do node mais fechado tb?ao contrário do meu BELOVED nodejs, o Django (e qualquer app python) armazena as dependências dentro da pasta venv (tal qual a node_module)
+
+a diferença é que vc precisa dessa venv pra rodar a aplicação, inclusive pra instalar dependências através do PIP (package manager)Esse fim de semana eu serei um Nerd feliz estudando coisas que eu gosto: Blockchain, BI, Costumes Experience Management, Design Thinking, DevOps &amp; Agile, Mobile Marketing, Python, Soluções Tecnológicas Emergentes e User Experience.
+
+A parte boa da quarentena. ♥️um tanto quanto complexo um projeto web no Python (pitãozim pros íntimo)RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa aleatoria.
+
+Entra aí: https://t.co/XwJnOFm0SS
+
+#Twitch #live https://t.co/KOZYxl3ACWQual tipo de automação você tem ou gostaria de ter interagindo com #github 🐙?
+
+Criei algumas aqui https://t.co/qf4bqugCxp para agilizar o meu dia a dia e estou querendo completar a coleção com outras ideias para praticar com #python 🐍5 atividades com python pra fazer e eu nem lembro como criar uma classe nessa bosta, vou me j urgentemente ifma segure esse peso das costas https://t.co/f4gL7rQjW1@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Historiador em 1974: https://t.co/VMpfWkwdef@occfelipe nem sei se vale a pena começar por java, eu so comecei mais pelo python por causa de uns caras aq no twitter, so dps de uns 2 meses fui ver java e parei de tentar decorar coding quando fui na pratica@occfelipe um exemplo seria um encrypt/decrypt de algum codigo/chave, se ce ja tiver a base de alguma das "linhas", ja fica facil em python, em java é quase o mesmo, mas ele tem uns comandos especificos pra açoes maiores, ai o import fica que nem essa primeira, mas nao é grande diferença https://t.co/2InhJr9f05Olá pessoal, há um tempo eu criei publicações no Medium para auxiliar em trabalhos repetitivos realizados em nosso dia a dia e que podem ser agilizados com o uso do desenvolvimento. Vá lá conferir:
+- https://t.co/O0Xvc9X7yu
+- https://t.co/O1QpmpKe9L
+#Python  #DEVCommunity #dev@occfelipe tipo, se ce começar com python, fica meio de dificil de decorar java ou seila, mas dependeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@bochagas ahhh é de um rolê bem específico do python. Consegui tirar um loop, foi basicamente isso 🤙instalando Ubuntu de novo e me sentindo no primeiro ano novamente pq n lembro nada de python@alveselvis2 Não! Faz mais de um ano em que eu precisei escrever um loop em R. Em Python faz alguns meses, mas foi por preguiça mesmo.Minha orientadora passou uma atividade pra eu processar um sinal de voz usando python. Eu processei. Quando fui apresentar ela perguntou onde estava o gráfico com o resultado. Acontece que ela não pediu pra eu plotar o resultado, pediu pra eu processar. Ela pediu desculpas@KimJoaoUn "eu vejo um loop, eu tilto" -- vc não usa loops at all? que legal, nunca uso map, vou começar a só usar map/filter (python) pra treinar. adorei o texto!@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+"O cartunista" em 1974: https://t.co/gDx8joISZeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@twtinvest Livro excelente com explicações matemáticas e códigos em Python https://t.co/yDxOmnCEYuMessias Recrutamento &amp; Seleção: Especialista Desenvolvedor(a) Python https://t.co/xaYlQG87wRVivi pra ver minha mãe rindo da piada do “Grandis Pintus” de Monty PythonRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qank@Willian_justen Ele se esqueceu de falar que JS está em tudo, e dependendo de que trilha Python os alunos dele irão seguir, vão ter que aprender JS hahaswitch case em python vai me ajudar tanto pqpRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qankToda vez que eu leio "Phyton" em algum lugar, principalmente em material acadêmico, sinto que perco um pouco da minha humanidade. #Python*Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qanktudo tranquilo joão? vc acha mais tranquilo aprender SQL como primeira linguagem do que pegar R ou python pra apr… — Opa beleza. Acho mais tranquilo sim, complicado eh aplicar o conhecimento sem programar em nada. Mas sim, muito u… https://t.co/IDWYfi779BRT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…Todo dia isso. 🤦
+
+#linux #python #programador https://t.co/E0aSOqYcK9Se strings em Python são imutáveis, como conseguimos alterá-la com o método replace()? https://t.co/nZbTti6PQZ #pythonaprox 3hr tentando achar o erro no meu codigo - tava rodando python 2 em vez de 3
+
+parabens p mim mais uma vez@tchaguitos Cara, eu tenho muitos cursos de python. Tua forma de explicar é sacanagem. Eu consigo entender. E olha q tenho mil cursos. Sucesso!Ps.: Eu AMO Python e foi uma das primeiras linguagens que aprendi, super gosto e recomendo!
+
+Meu ponto é "ao invés de criar competição e hate, fala das vantagens/desvantagens", você não precisa diminuir outra linguagem para dizer que Python é foda.RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@leonel_shadow Sim, agora mesmo tava tendo conversa sobre dados abertos com vereador Ivan Moraes do PSOL realizado por grupos relacionados com Python. Fora as iniciativas de inclusão como Afro Python, PyLadies entre outras com o objetivo de discutir a área.RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Gosto que grande parte da comunidade de Python é de esquerda.Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor que JS".
+
+Ao invés de criar competição entre linguagens, fala só das vantagens da linguagem, essa mania de diminuir algo para "crescer em cima" é péssimo!gente quem sabe mexer no python? me ajuda em um condigo PFVR@naoeniveldefibo @Cacomaia @OriqueFernando Bacana demais!! Esses meninos são fera demais! @PelissariSergio me deu um bizu do Python + Mql5 que me ajudou bastante. @OriqueFernando #mincina ! 🙏💫❤️"ain mas nao sabia q ia ter tanta programacao assim"
+
+disciplinas:  "Linguagem de Programação Aplicada: Programação em Python",  "Linguagem R"
+
+achou q ia ter o que???@johnsilvabr @Cacomaia Sim foi por python! Sem a ajuda do @OriqueFernando não teria saído nada, mas agora consigo gerar em qualquer tempo gráfico.Meta de 2021: terminar o ano sabendo muito bem Python, C, C#, MATLAB e outras linguagens. Python e C em andamento.configurando testes pra rodar sempre que rolar um push no develop e pull request pra main nas versoes 3.7, 3.8 e 3.9 do python no github actions em 30 linhas 🤯
+https://t.co/RrLDMig6waConteúdo muito bacana para quem quer aprender sobre análise de sentimentos com Python. 
+Aliás, adorei esse assunto e espero fazer mais coisas sobre em breve
+https://t.co/feXmOJ0WcORT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…@python_volley Também conhecido como Rigatoni.. é um tipo de macarrão. https://t.co/DRhzlegHtHboa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as alunas, a turma é desnivelada e conteúdo dado é conteúdo aprendido.
+Bom ela precisaria de uma pessoa monitora que saiba Python +@thiagoromariz Toda parte da ressurreição do Superman até a batalha final, eu achei ótima. Flash dobrando o tempo é fantástico. Toda parte antes disso é muito monótona. O epílogo é vergonhoso. Não há palavras pra descrever. Tão nonsense quanto o final de Monty Python e o Cálice Sagrado.Meu professor que tá ensinando python é péssimo, n explicou os conceitos, como utilizar comando, nada, maioria da turma nunca programou nada, e até eu, que já sabia um pouco, me fudi pra fazer as coisas, ele já foi explicar direto como fazer cálculos complexos, vsf112 anúncios publicados nas últimas 24 horas no ITJobs #java #.net #react #frontend #outsystems #python #sap #bi #cloud #devops https://t.co/IDQyaaetICtive que desinstalar o python umas 3 vezes? sim
+caguei a configuração do meu pycharm? óbvio
+vou ter que baixar as bibliotecas tudo de novo? claro
+
+mas o importante é que agora da pra brincar com Manim (aparentemente)RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @DicasdeInfra: A Google disponibilizou um programa de cursos integrados que ensinam desde o básico de suporte de TI, automação de TI com…@apertaoesc Eu já perdi amigo porque disse que não curti fazer app em Python com Kivy. 🤷‍♂️@GlairtonS Sim, claro. Dá pra fazer aplicação web com um monte de coisa kkkk
+
+Mas tô falando pra iniciantes mesmo. Python e JS ainda são as melhores (pelo menos pra mim) pra iniciantes aprenderem lógica. JAVA é relativamente confusoEu tenho vontade de aprender e dominar haskell, perl, golang, python e javascrip, php, html e tudo mais... mas ainda estou empacado em C e C++, muito difícil chegar ao estágio de poder dizer que "domina" uma linguagemE eu achando que o final de Monty Python e o Cálice Sagrado era nonsense. #SnyderCutRT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/wVktFLgqup
+
+venham!Eu acabei de descobrir que esse bot foi programado em python, eu sempre me emociono com essas coisas kkkkkkkk https://t.co/nDrFvyzBg8@ramalhoorg Enfim enquanto procurava seu nome até considerei, será que o Luciano seria a pessoa certa pra vir na minha empresa e fazer palestra e ensinar os meus funcionários sobre python? 
+
+Mas... Veio a resposta bem rápido. 
+
+Decepção.@ramalhoorg Mas eu te perdoo pelo que vc disse e fez. 
+
+Peço a Deus que faça o mesmo. 
+
+É sábado de manhã eu estava procurando um livro de python e fiquei feliz de ver um BR sendo recomendado pelos gringos. Mas vc não imagina a minha tristeza em ver esse seu comentário.os dicionários do python são ao mesmo tempo a melhor e a pior coisa da linguagem:
+
+- a melhor pq PUTS o TANTO de coisa que dá pra você fazer trabalhando com eles é imensa, parece q toda a linguagem gira em volta desses dicionários
+- a pior pq PUTS o tanto q é chatim tb...Faltou a última: 
+4) Python é muito melhor😅 https://t.co/SisgdWB6a6medo de conhecer o python e desistir de aprender as outras linguagens de programação...python é tão lindo &lt;3
+
+e honestamente acho que se não fosse pelo react (que eu amo), eu ia começar cagar pro javascript agora...python ou ps5? eis a questãoRT @imexpertsbrasil: Conheça o novo VerticaPy v0.5.
+
+Com o VerticaPy 0.5, é possível implementar modelos de Machine Learning aproveitando o…@wilcorrea Tem que ser muito fdp pra falar algo assim de verdade. Acho que ninguém tem esse direito tá ligado. Por exemplo, minha mãe é advogada por formação. Tá trabalhando com marketing digital agora mas já fez um código Python bolado pra fazer scrap de dados num site de e-sports.RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihW@glimmahstan Já já pedem 10 anos de experiência em Python e que tenha pós graduaçãoHoje dia de Aula para aprender Python, mas não tem Live de Among  :(Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…RT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9DjY8vTa
+
+#Java #Agile #DevOps #Python #Lean #QA #Cloud #MicroService #BlockChain #Kanban https://t.co/Z9A5O5UA4kRT @paanalytics1: 2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em http…@adriaantje_ Minha nossa, isso aí é roteiro de Monty Python, TV Pirata, Casseta e Planeta... Não é possível hahahhahhahahahhahRT @tchaguitos: Meu primeiro curso tá disponível na Udemy! 🎉
+
+Com ele você vai iniciar sua carreira como desenvolvedor web utilizando a lin…2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em https://t.co/7nRSrlUpJ6   #python #datascience #powerbi #datastudio #sql #analytics #datavis #tableau #udemy #hotmart #sympla #cursos #brasil #descontoRT @paanalytics1: 2021-03-20 11:00:06.061228 - Consultoria em Data Science e Analytics: Análise de Dados, Machine Learning, Construção de D…@Willian_justen Já recomendei vários cursos Python, Java e outras linguagens para amigos, mas posso ter certeza que esse curso ou produto não será o caso!meu olhos n brilham nem um pouco pra pythonRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Visualizando TWEETS com Nuvens de Palavras em Python | Python na Prática (Bom demais!!)Programe em Python News já saiu! https://t.co/hsk5vR6dIP Graças a @SciPyTipIntroduction of deep learning with python finalizada. Ainda meio capenga, mas acho que entendi o suficiente de Keras e como construir uma rede neural. Agora é ver uns vídeozinhos da batalha da aldeia enquanto a patroa não chega em casa.#365DaysOfCode #100DaysOfCode #Python #kaggle 79
+Principal Component Analysis (PCA): Intro
+#pythonprogramming for #DataScienceterminei meu projetinho em python 🥺🥺🥺🥺🥺@EnzoBolseiro TUDOO ? PQP CONSIDERO PAKAS MSM!
+depende, aplicações web javascript 
+interface java e python 
+pra fazer uns programinhas c e c++
+eu amo c++ já falei isso neah kkkkkk pq ????RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…eu não sou mto fã de MVC etc então não posso opinar se o do Django é o melhor/pior etc
+
+mas o do node com certeza é mais versátil (pra mim)
+
+porém talvez seja alguma limitação do django, talvez com o python puro seja diferente? talvez com algum framework do node mais fechado tb?ao contrário do meu BELOVED nodejs, o Django (e qualquer app python) armazena as dependências dentro da pasta venv (tal qual a node_module)
+
+a diferença é que vc precisa dessa venv pra rodar a aplicação, inclusive pra instalar dependências através do PIP (package manager)Esse fim de semana eu serei um Nerd feliz estudando coisas que eu gosto: Blockchain, BI, Costumes Experience Management, Design Thinking, DevOps &amp; Agile, Mobile Marketing, Python, Soluções Tecnológicas Emergentes e User Experience.
+
+A parte boa da quarentena. ♥️um tanto quanto complexo um projeto web no Python (pitãozim pros íntimo)RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa aleatoria.
+
+Entra aí: https://t.co/XwJnOFm0SS
+
+#Twitch #live https://t.co/KOZYxl3ACWQual tipo de automação você tem ou gostaria de ter interagindo com #github 🐙?
+
+Criei algumas aqui https://t.co/qf4bqugCxp para agilizar o meu dia a dia e estou querendo completar a coleção com outras ideias para praticar com #python 🐍5 atividades com python pra fazer e eu nem lembro como criar uma classe nessa bosta, vou me j urgentemente ifma segure esse peso das costas https://t.co/f4gL7rQjW1@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Historiador em 1974: https://t.co/VMpfWkwdef@occfelipe nem sei se vale a pena começar por java, eu so comecei mais pelo python por causa de uns caras aq no twitter, so dps de uns 2 meses fui ver java e parei de tentar decorar coding quando fui na pratica@occfelipe um exemplo seria um encrypt/decrypt de algum codigo/chave, se ce ja tiver a base de alguma das "linhas", ja fica facil em python, em java é quase o mesmo, mas ele tem uns comandos especificos pra açoes maiores, ai o import fica que nem essa primeira, mas nao é grande diferença https://t.co/2InhJr9f05Olá pessoal, há um tempo eu criei publicações no Medium para auxiliar em trabalhos repetitivos realizados em nosso dia a dia e que podem ser agilizados com o uso do desenvolvimento. Vá lá conferir:
+- https://t.co/O0Xvc9X7yu
+- https://t.co/O1QpmpKe9L
+#Python  #DEVCommunity #dev@occfelipe tipo, se ce começar com python, fica meio de dificil de decorar java ou seila, mas dependeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@bochagas ahhh é de um rolê bem específico do python. Consegui tirar um loop, foi basicamente isso 🤙instalando Ubuntu de novo e me sentindo no primeiro ano novamente pq n lembro nada de python@alveselvis2 Não! Faz mais de um ano em que eu precisei escrever um loop em R. Em Python faz alguns meses, mas foi por preguiça mesmo.Minha orientadora passou uma atividade pra eu processar um sinal de voz usando python. Eu processei. Quando fui apresentar ela perguntou onde estava o gráfico com o resultado. Acontece que ela não pediu pra eu plotar o resultado, pediu pra eu processar. Ela pediu desculpas@KimJoaoUn "eu vejo um loop, eu tilto" -- vc não usa loops at all? que legal, nunca uso map, vou começar a só usar map/filter (python) pra treinar. adorei o texto!@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+"O cartunista" em 1974: https://t.co/gDx8joISZeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@twtinvest Livro excelente com explicações matemáticas e códigos em Python https://t.co/yDxOmnCEYuMessias Recrutamento &amp; Seleção: Especialista Desenvolvedor(a) Python https://t.co/xaYlQG87wRVivi pra ver minha mãe rindo da piada do “Grandis Pintus” de Monty PythonRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qank@Willian_justen Ele se esqueceu de falar que JS está em tudo, e dependendo de que trilha Python os alunos dele irão seguir, vão ter que aprender JS hahaswitch case em python vai me ajudar tanto pqpRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qankToda vez que eu leio "Phyton" em algum lugar, principalmente em material acadêmico, sinto que perco um pouco da minha humanidade. #Python*Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qanktudo tranquilo joão? vc acha mais tranquilo aprender SQL como primeira linguagem do que pegar R ou python pra apr… — Opa beleza. Acho mais tranquilo sim, complicado eh aplicar o conhecimento sem programar em nada. Mas sim, muito u… https://t.co/IDWYfi779BRT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…Todo dia isso. 🤦
+
+#linux #python #programador https://t.co/E0aSOqYcK9Se strings em Python são imutáveis, como conseguimos alterá-la com o método replace()? https://t.co/nZbTti6PQZ #pythonaprox 3hr tentando achar o erro no meu codigo - tava rodando python 2 em vez de 3
+
+parabens p mim mais uma vez@tchaguitos Cara, eu tenho muitos cursos de python. Tua forma de explicar é sacanagem. Eu consigo entender. E olha q tenho mil cursos. Sucesso!Ps.: Eu AMO Python e foi uma das primeiras linguagens que aprendi, super gosto e recomendo!
+
+Meu ponto é "ao invés de criar competição e hate, fala das vantagens/desvantagens", você não precisa diminuir outra linguagem para dizer que Python é foda.RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@leonel_shadow Sim, agora mesmo tava tendo conversa sobre dados abertos com vereador Ivan Moraes do PSOL realizado por grupos relacionados com Python. Fora as iniciativas de inclusão como Afro Python, PyLadies entre outras com o objetivo de discutir a área.RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Gosto que grande parte da comunidade de Python é de esquerda.Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor que JS".
+
+Ao invés de criar competição entre linguagens, fala só das vantagens da linguagem, essa mania de diminuir algo para "crescer em cima" é péssimo!gente quem sabe mexer no python? me ajuda em um condigo PFVR@naoeniveldefibo @Cacomaia @OriqueFernando Bacana demais!! Esses meninos são fera demais! @PelissariSergio me deu um bizu do Python + Mql5 que me ajudou bastante. @OriqueFernando #mincina ! 🙏💫❤️"ain mas nao sabia q ia ter tanta programacao assim"
+
+disciplinas:  "Linguagem de Programação Aplicada: Programação em Python",  "Linguagem R"
+
+achou q ia ter o que???@johnsilvabr @Cacomaia Sim foi por python! Sem a ajuda do @OriqueFernando não teria saído nada, mas agora consigo gerar em qualquer tempo gráfico.Meta de 2021: terminar o ano sabendo muito bem Python, C, C#, MATLAB e outras linguagens. Python e C em andamento.configurando testes pra rodar sempre que rolar um push no develop e pull request pra main nas versoes 3.7, 3.8 e 3.9 do python no github actions em 30 linhas 🤯
+https://t.co/RrLDMig6waConteúdo muito bacana para quem quer aprender sobre análise de sentimentos com Python. 
+Aliás, adorei esse assunto e espero fazer mais coisas sobre em breve
+https://t.co/feXmOJ0WcORT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…@python_volley Também conhecido como Rigatoni.. é um tipo de macarrão. https://t.co/DRhzlegHtHboa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as alunas, a turma é desnivelada e conteúdo dado é conteúdo aprendido.
+Bom ela precisaria de uma pessoa monitora que saiba Python +@thiagoromariz Toda parte da ressurreição do Superman até a batalha final, eu achei ótima. Flash dobrando o tempo é fantástico. Toda parte antes disso é muito monótona. O epílogo é vergonhoso. Não há palavras pra descrever. Tão nonsense quanto o final de Monty Python e o Cálice Sagrado.Meu professor que tá ensinando python é péssimo, n explicou os conceitos, como utilizar comando, nada, maioria da turma nunca programou nada, e até eu, que já sabia um pouco, me fudi pra fazer as coisas, ele já foi explicar direto como fazer cálculos complexos, vsf112 anúncios publicados nas últimas 24 horas no ITJobs #java #.net #react #frontend #outsystems #python #sap #bi #cloud #devops https://t.co/IDQyaaetICtive que desinstalar o python umas 3 vezes? sim
+caguei a configuração do meu pycharm? óbvio
+vou ter que baixar as bibliotecas tudo de novo? claro
+
+mas o importante é que agora da pra brincar com Manim (aparentemente)RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @DicasdeInfra: A Google disponibilizou um programa de cursos integrados que ensinam desde o básico de suporte de TI, automação de TI com…@apertaoesc Eu já perdi amigo porque disse que não curti fazer app em Python com Kivy. 🤷‍♂️@GlairtonS Sim, claro. Dá pra fazer aplicação web com um monte de coisa kkkk
+
+Mas tô falando pra iniciantes mesmo. Python e JS ainda são as melhores (pelo menos pra mim) pra iniciantes aprenderem lógica. JAVA é relativamente confusoEu tenho vontade de aprender e dominar haskell, perl, golang, python e javascrip, php, html e tudo mais... mas ainda estou empacado em C e C++, muito difícil chegar ao estágio de poder dizer que "domina" uma linguagemE eu achando que o final de Monty Python e o Cálice Sagrado era nonsense. #SnyderCutRT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/wVktFLgqup
+
+venham!Eu acabei de descobrir que esse bot foi programado em python, eu sempre me emociono com essas coisas kkkkkkkk https://t.co/nDrFvyzBg8@ramalhoorg Enfim enquanto procurava seu nome até considerei, será que o Luciano seria a pessoa certa pra vir na minha empresa e fazer palestra e ensinar os meus funcionários sobre python? 
+
+Mas... Veio a resposta bem rápido. 
+
+Decepção.@ramalhoorg Mas eu te perdoo pelo que vc disse e fez. 
+
+Peço a Deus que faça o mesmo. 
+
+É sábado de manhã eu estava procurando um livro de python e fiquei feliz de ver um BR sendo recomendado pelos gringos. Mas vc não imagina a minha tristeza em ver esse seu comentário.os dicionários do python são ao mesmo tempo a melhor e a pior coisa da linguagem:
+
+- a melhor pq PUTS o TANTO de coisa que dá pra você fazer trabalhando com eles é imensa, parece q toda a linguagem gira em volta desses dicionários
+- a pior pq PUTS o tanto q é chatim tb...Faltou a última: 
+4) Python é muito melhor😅 https://t.co/SisgdWB6a6medo de conhecer o python e desistir de aprender as outras linguagens de programação...python é tão lindo &lt;3
+
+e honestamente acho que se não fosse pelo react (que eu amo), eu ia começar cagar pro javascript agora...python ou ps5? eis a questãoRT @imexpertsbrasil: Conheça o novo VerticaPy v0.5.
+
+Com o VerticaPy 0.5, é possível implementar modelos de Machine Learning aproveitando o…@wilcorrea Tem que ser muito fdp pra falar algo assim de verdade. Acho que ninguém tem esse direito tá ligado. Por exemplo, minha mãe é advogada por formação. Tá trabalhando com marketing digital agora mas já fez um código Python bolado pra fazer scrap de dados num site de e-sports.RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihW@glimmahstan Já já pedem 10 anos de experiência em Python e que tenha pós graduaçãoHoje dia de Aula para aprender Python, mas não tem Live de Among  :(Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…RT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9DjY8vTa
+
+#Java #Agile #DevOps #Python #Lean #QA #Cloud #MicroService #BlockChain #Kanban https://t.co/Z9A5O5UA4kRT @paanalytics1: 2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em http…@adriaantje_ Minha nossa, isso aí é roteiro de Monty Python, TV Pirata, Casseta e Planeta... Não é possível hahahhahhahahahhahRT @tchaguitos: Meu primeiro curso tá disponível na Udemy! 🎉
+
+Com ele você vai iniciar sua carreira como desenvolvedor web utilizando a lin…2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em https://t.co/7nRSrlUpJ6   #python #datascience #powerbi #datastudio #sql #analytics #datavis #tableau #udemy #hotmart #sympla #cursos #brasil #descontoRT @paanalytics1: 2021-03-20 11:00:06.061228 - Consultoria em Data Science e Analytics: Análise de Dados, Machine Learning, Construção de D…@Willian_justen Já recomendei vários cursos Python, Java e outras linguagens para amigos, mas posso ter certeza que esse curso ou produto não será o caso!meu olhos n brilham nem um pouco pra pythonRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Visualizando TWEETS com Nuvens de Palavras em Python | Python na Prática (Bom demais!!)Programe em Python News já saiu! https://t.co/hsk5vR6dIP Graças a @SciPyTipIntroduction of deep learning with python finalizada. Ainda meio capenga, mas acho que entendi o suficiente de Keras e como construir uma rede neural. Agora é ver uns vídeozinhos da batalha da aldeia enquanto a patroa não chega em casa.#365DaysOfCode #100DaysOfCode #Python #kaggle 79
+Principal Component Analysis (PCA): Intro
+#pythonprogramming for #DataScienceterminei meu projetinho em python 🥺🥺🥺🥺🥺@EnzoBolseiro TUDOO ? PQP CONSIDERO PAKAS MSM!
+depende, aplicações web javascript 
+interface java e python 
+pra fazer uns programinhas c e c++
+eu amo c++ já falei isso neah kkkkkk pq ????RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…eu não sou mto fã de MVC etc então não posso opinar se o do Django é o melhor/pior etc
+
+mas o do node com certeza é mais versátil (pra mim)
+
+porém talvez seja alguma limitação do django, talvez com o python puro seja diferente? talvez com algum framework do node mais fechado tb?ao contrário do meu BELOVED nodejs, o Django (e qualquer app python) armazena as dependências dentro da pasta venv (tal qual a node_module)
+
+a diferença é que vc precisa dessa venv pra rodar a aplicação, inclusive pra instalar dependências através do PIP (package manager)Esse fim de semana eu serei um Nerd feliz estudando coisas que eu gosto: Blockchain, BI, Costumes Experience Management, Design Thinking, DevOps &amp; Agile, Mobile Marketing, Python, Soluções Tecnológicas Emergentes e User Experience.
+
+A parte boa da quarentena. ♥️um tanto quanto complexo um projeto web no Python (pitãozim pros íntimo)RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa aleatoria.
+
+Entra aí: https://t.co/XwJnOFm0SS
+
+#Twitch #live https://t.co/KOZYxl3ACWQual tipo de automação você tem ou gostaria de ter interagindo com #github 🐙?
+
+Criei algumas aqui https://t.co/qf4bqugCxp para agilizar o meu dia a dia e estou querendo completar a coleção com outras ideias para praticar com #python 🐍5 atividades com python pra fazer e eu nem lembro como criar uma classe nessa bosta, vou me j urgentemente ifma segure esse peso das costas https://t.co/f4gL7rQjW1@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Historiador em 1974: https://t.co/VMpfWkwdef@occfelipe nem sei se vale a pena começar por java, eu so comecei mais pelo python por causa de uns caras aq no twitter, so dps de uns 2 meses fui ver java e parei de tentar decorar coding quando fui na pratica@occfelipe um exemplo seria um encrypt/decrypt de algum codigo/chave, se ce ja tiver a base de alguma das "linhas", ja fica facil em python, em java é quase o mesmo, mas ele tem uns comandos especificos pra açoes maiores, ai o import fica que nem essa primeira, mas nao é grande diferença https://t.co/2InhJr9f05Olá pessoal, há um tempo eu criei publicações no Medium para auxiliar em trabalhos repetitivos realizados em nosso dia a dia e que podem ser agilizados com o uso do desenvolvimento. Vá lá conferir:
+- https://t.co/O0Xvc9X7yu
+- https://t.co/O1QpmpKe9L
+#Python  #DEVCommunity #dev@occfelipe tipo, se ce começar com python, fica meio de dificil de decorar java ou seila, mas dependeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@bochagas ahhh é de um rolê bem específico do python. Consegui tirar um loop, foi basicamente isso 🤙instalando Ubuntu de novo e me sentindo no primeiro ano novamente pq n lembro nada de python@alveselvis2 Não! Faz mais de um ano em que eu precisei escrever um loop em R. Em Python faz alguns meses, mas foi por preguiça mesmo.Minha orientadora passou uma atividade pra eu processar um sinal de voz usando python. Eu processei. Quando fui apresentar ela perguntou onde estava o gráfico com o resultado. Acontece que ela não pediu pra eu plotar o resultado, pediu pra eu processar. Ela pediu desculpas@KimJoaoUn "eu vejo um loop, eu tilto" -- vc não usa loops at all? que legal, nunca uso map, vou começar a só usar map/filter (python) pra treinar. adorei o texto!@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+"O cartunista" em 1974: https://t.co/gDx8joISZeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@twtinvest Livro excelente com explicações matemáticas e códigos em Python https://t.co/yDxOmnCEYuMessias Recrutamento &amp; Seleção: Especialista Desenvolvedor(a) Python https://t.co/xaYlQG87wRVivi pra ver minha mãe rindo da piada do “Grandis Pintus” de Monty PythonRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qank@Willian_justen Ele se esqueceu de falar que JS está em tudo, e dependendo de que trilha Python os alunos dele irão seguir, vão ter que aprender JS hahaswitch case em python vai me ajudar tanto pqpRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qankToda vez que eu leio "Phyton" em algum lugar, principalmente em material acadêmico, sinto que perco um pouco da minha humanidade. #Python*Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qanktudo tranquilo joão? vc acha mais tranquilo aprender SQL como primeira linguagem do que pegar R ou python pra apr… — Opa beleza. Acho mais tranquilo sim, complicado eh aplicar o conhecimento sem programar em nada. Mas sim, muito u… https://t.co/IDWYfi779BRT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…Todo dia isso. 🤦
+
+#linux #python #programador https://t.co/E0aSOqYcK9Se strings em Python são imutáveis, como conseguimos alterá-la com o método replace()? https://t.co/nZbTti6PQZ #pythonaprox 3hr tentando achar o erro no meu codigo - tava rodando python 2 em vez de 3
+
+parabens p mim mais uma vez@tchaguitos Cara, eu tenho muitos cursos de python. Tua forma de explicar é sacanagem. Eu consigo entender. E olha q tenho mil cursos. Sucesso!Ps.: Eu AMO Python e foi uma das primeiras linguagens que aprendi, super gosto e recomendo!
+
+Meu ponto é "ao invés de criar competição e hate, fala das vantagens/desvantagens", você não precisa diminuir outra linguagem para dizer que Python é foda.RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@leonel_shadow Sim, agora mesmo tava tendo conversa sobre dados abertos com vereador Ivan Moraes do PSOL realizado por grupos relacionados com Python. Fora as iniciativas de inclusão como Afro Python, PyLadies entre outras com o objetivo de discutir a área.RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Gosto que grande parte da comunidade de Python é de esquerda.Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor que JS".
+
+Ao invés de criar competição entre linguagens, fala só das vantagens da linguagem, essa mania de diminuir algo para "crescer em cima" é péssimo!gente quem sabe mexer no python? me ajuda em um condigo PFVR@naoeniveldefibo @Cacomaia @OriqueFernando Bacana demais!! Esses meninos são fera demais! @PelissariSergio me deu um bizu do Python + Mql5 que me ajudou bastante. @OriqueFernando #mincina ! 🙏💫❤️"ain mas nao sabia q ia ter tanta programacao assim"
+
+disciplinas:  "Linguagem de Programação Aplicada: Programação em Python",  "Linguagem R"
+
+achou q ia ter o que???@johnsilvabr @Cacomaia Sim foi por python! Sem a ajuda do @OriqueFernando não teria saído nada, mas agora consigo gerar em qualquer tempo gráfico.Meta de 2021: terminar o ano sabendo muito bem Python, C, C#, MATLAB e outras linguagens. Python e C em andamento.configurando testes pra rodar sempre que rolar um push no develop e pull request pra main nas versoes 3.7, 3.8 e 3.9 do python no github actions em 30 linhas 🤯
+https://t.co/RrLDMig6waConteúdo muito bacana para quem quer aprender sobre análise de sentimentos com Python. 
+Aliás, adorei esse assunto e espero fazer mais coisas sobre em breve
+https://t.co/feXmOJ0WcORT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…@python_volley Também conhecido como Rigatoni.. é um tipo de macarrão. https://t.co/DRhzlegHtHboa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as alunas, a turma é desnivelada e conteúdo dado é conteúdo aprendido.
+Bom ela precisaria de uma pessoa monitora que saiba Python +@thiagoromariz Toda parte da ressurreição do Superman até a batalha final, eu achei ótima. Flash dobrando o tempo é fantástico. Toda parte antes disso é muito monótona. O epílogo é vergonhoso. Não há palavras pra descrever. Tão nonsense quanto o final de Monty Python e o Cálice Sagrado.Meu professor que tá ensinando python é péssimo, n explicou os conceitos, como utilizar comando, nada, maioria da turma nunca programou nada, e até eu, que já sabia um pouco, me fudi pra fazer as coisas, ele já foi explicar direto como fazer cálculos complexos, vsf112 anúncios publicados nas últimas 24 horas no ITJobs #java #.net #react #frontend #outsystems #python #sap #bi #cloud #devops https://t.co/IDQyaaetICtive que desinstalar o python umas 3 vezes? sim
+caguei a configuração do meu pycharm? óbvio
+vou ter que baixar as bibliotecas tudo de novo? claro
+
+mas o importante é que agora da pra brincar com Manim (aparentemente)RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @DicasdeInfra: A Google disponibilizou um programa de cursos integrados que ensinam desde o básico de suporte de TI, automação de TI com…@apertaoesc Eu já perdi amigo porque disse que não curti fazer app em Python com Kivy. 🤷‍♂️@GlairtonS Sim, claro. Dá pra fazer aplicação web com um monte de coisa kkkk
+
+Mas tô falando pra iniciantes mesmo. Python e JS ainda são as melhores (pelo menos pra mim) pra iniciantes aprenderem lógica. JAVA é relativamente confusoEu tenho vontade de aprender e dominar haskell, perl, golang, python e javascrip, php, html e tudo mais... mas ainda estou empacado em C e C++, muito difícil chegar ao estágio de poder dizer que "domina" uma linguagemE eu achando que o final de Monty Python e o Cálice Sagrado era nonsense. #SnyderCutRT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/wVktFLgqup
+
+venham!Eu acabei de descobrir que esse bot foi programado em python, eu sempre me emociono com essas coisas kkkkkkkk https://t.co/nDrFvyzBg8@ramalhoorg Enfim enquanto procurava seu nome até considerei, será que o Luciano seria a pessoa certa pra vir na minha empresa e fazer palestra e ensinar os meus funcionários sobre python? 
+
+Mas... Veio a resposta bem rápido. 
+
+Decepção.@ramalhoorg Mas eu te perdoo pelo que vc disse e fez. 
+
+Peço a Deus que faça o mesmo. 
+
+É sábado de manhã eu estava procurando um livro de python e fiquei feliz de ver um BR sendo recomendado pelos gringos. Mas vc não imagina a minha tristeza em ver esse seu comentário.os dicionários do python são ao mesmo tempo a melhor e a pior coisa da linguagem:
+
+- a melhor pq PUTS o TANTO de coisa que dá pra você fazer trabalhando com eles é imensa, parece q toda a linguagem gira em volta desses dicionários
+- a pior pq PUTS o tanto q é chatim tb...Faltou a última: 
+4) Python é muito melhor😅 https://t.co/SisgdWB6a6medo de conhecer o python e desistir de aprender as outras linguagens de programação...python é tão lindo &lt;3
+
+e honestamente acho que se não fosse pelo react (que eu amo), eu ia começar cagar pro javascript agora...python ou ps5? eis a questãoRT @imexpertsbrasil: Conheça o novo VerticaPy v0.5.
+
+Com o VerticaPy 0.5, é possível implementar modelos de Machine Learning aproveitando o…@wilcorrea Tem que ser muito fdp pra falar algo assim de verdade. Acho que ninguém tem esse direito tá ligado. Por exemplo, minha mãe é advogada por formação. Tá trabalhando com marketing digital agora mas já fez um código Python bolado pra fazer scrap de dados num site de e-sports.RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihW@glimmahstan Já já pedem 10 anos de experiência em Python e que tenha pós graduaçãoHoje dia de Aula para aprender Python, mas não tem Live de Among  :(Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…RT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9DjY8vTa
+
+#Java #Agile #DevOps #Python #Lean #QA #Cloud #MicroService #BlockChain #Kanban https://t.co/Z9A5O5UA4kRT @paanalytics1: 2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em http…@adriaantje_ Minha nossa, isso aí é roteiro de Monty Python, TV Pirata, Casseta e Planeta... Não é possível hahahhahhahahahhahRT @tchaguitos: Meu primeiro curso tá disponível na Udemy! 🎉
+
+Com ele você vai iniciar sua carreira como desenvolvedor web utilizando a lin…2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em https://t.co/7nRSrlUpJ6   #python #datascience #powerbi #datastudio #sql #analytics #datavis #tableau #udemy #hotmart #sympla #cursos #brasil #descontoRT @paanalytics1: 2021-03-20 11:00:06.061228 - Consultoria em Data Science e Analytics: Análise de Dados, Machine Learning, Construção de D…@Willian_justen Já recomendei vários cursos Python, Java e outras linguagens para amigos, mas posso ter certeza que esse curso ou produto não será o caso!meu olhos n brilham nem um pouco pra pythonRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Visualizando TWEETS com Nuvens de Palavras em Python | Python na Prática (Bom demais!!)Programe em Python News já saiu! https://t.co/hsk5vR6dIP Graças a @SciPyTipIntroduction of deep learning with python finalizada. Ainda meio capenga, mas acho que entendi o suficiente de Keras e como construir uma rede neural. Agora é ver uns vídeozinhos da batalha da aldeia enquanto a patroa não chega em casa.#365DaysOfCode #100DaysOfCode #Python #kaggle 79
+Principal Component Analysis (PCA): Intro
+#pythonprogramming for #DataScienceterminei meu projetinho em python 🥺🥺🥺🥺🥺@EnzoBolseiro TUDOO ? PQP CONSIDERO PAKAS MSM!
+depende, aplicações web javascript 
+interface java e python 
+pra fazer uns programinhas c e c++
+eu amo c++ já falei isso neah kkkkkk pq ????RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…eu não sou mto fã de MVC etc então não posso opinar se o do Django é o melhor/pior etc
+
+mas o do node com certeza é mais versátil (pra mim)
+
+porém talvez seja alguma limitação do django, talvez com o python puro seja diferente? talvez com algum framework do node mais fechado tb?ao contrário do meu BELOVED nodejs, o Django (e qualquer app python) armazena as dependências dentro da pasta venv (tal qual a node_module)
+
+a diferença é que vc precisa dessa venv pra rodar a aplicação, inclusive pra instalar dependências através do PIP (package manager)Esse fim de semana eu serei um Nerd feliz estudando coisas que eu gosto: Blockchain, BI, Costumes Experience Management, Design Thinking, DevOps &amp; Agile, Mobile Marketing, Python, Soluções Tecnológicas Emergentes e User Experience.
+
+A parte boa da quarentena. ♥️um tanto quanto complexo um projeto web no Python (pitãozim pros íntimo)RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa aleatoria.
+
+Entra aí: https://t.co/XwJnOFm0SS
+
+#Twitch #live https://t.co/KOZYxl3ACWQual tipo de automação você tem ou gostaria de ter interagindo com #github 🐙?
+
+Criei algumas aqui https://t.co/qf4bqugCxp para agilizar o meu dia a dia e estou querendo completar a coleção com outras ideias para praticar com #python 🐍5 atividades com python pra fazer e eu nem lembro como criar uma classe nessa bosta, vou me j urgentemente ifma segure esse peso das costas https://t.co/f4gL7rQjW1@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Historiador em 1974: https://t.co/VMpfWkwdef@occfelipe nem sei se vale a pena começar por java, eu so comecei mais pelo python por causa de uns caras aq no twitter, so dps de uns 2 meses fui ver java e parei de tentar decorar coding quando fui na pratica@occfelipe um exemplo seria um encrypt/decrypt de algum codigo/chave, se ce ja tiver a base de alguma das "linhas", ja fica facil em python, em java é quase o mesmo, mas ele tem uns comandos especificos pra açoes maiores, ai o import fica que nem essa primeira, mas nao é grande diferença https://t.co/2InhJr9f05Olá pessoal, há um tempo eu criei publicações no Medium para auxiliar em trabalhos repetitivos realizados em nosso dia a dia e que podem ser agilizados com o uso do desenvolvimento. Vá lá conferir:
+- https://t.co/O0Xvc9X7yu
+- https://t.co/O1QpmpKe9L
+#Python  #DEVCommunity #dev@occfelipe tipo, se ce começar com python, fica meio de dificil de decorar java ou seila, mas dependeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@bochagas ahhh é de um rolê bem específico do python. Consegui tirar um loop, foi basicamente isso 🤙instalando Ubuntu de novo e me sentindo no primeiro ano novamente pq n lembro nada de python@alveselvis2 Não! Faz mais de um ano em que eu precisei escrever um loop em R. Em Python faz alguns meses, mas foi por preguiça mesmo.Minha orientadora passou uma atividade pra eu processar um sinal de voz usando python. Eu processei. Quando fui apresentar ela perguntou onde estava o gráfico com o resultado. Acontece que ela não pediu pra eu plotar o resultado, pediu pra eu processar. Ela pediu desculpas@KimJoaoUn "eu vejo um loop, eu tilto" -- vc não usa loops at all? que legal, nunca uso map, vou começar a só usar map/filter (python) pra treinar. adorei o texto!@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+"O cartunista" em 1974: https://t.co/gDx8joISZeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@twtinvest Livro excelente com explicações matemáticas e códigos em Python https://t.co/yDxOmnCEYuMessias Recrutamento &amp; Seleção: Especialista Desenvolvedor(a) Python https://t.co/xaYlQG87wRVivi pra ver minha mãe rindo da piada do “Grandis Pintus” de Monty PythonRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qank@Willian_justen Ele se esqueceu de falar que JS está em tudo, e dependendo de que trilha Python os alunos dele irão seguir, vão ter que aprender JS hahaswitch case em python vai me ajudar tanto pqpRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qankToda vez que eu leio "Phyton" em algum lugar, principalmente em material acadêmico, sinto que perco um pouco da minha humanidade. #Python*Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qanktudo tranquilo joão? vc acha mais tranquilo aprender SQL como primeira linguagem do que pegar R ou python pra apr… — Opa beleza. Acho mais tranquilo sim, complicado eh aplicar o conhecimento sem programar em nada. Mas sim, muito u… https://t.co/IDWYfi779BRT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…Todo dia isso. 🤦
+
+#linux #python #programador https://t.co/E0aSOqYcK9Se strings em Python são imutáveis, como conseguimos alterá-la com o método replace()? https://t.co/nZbTti6PQZ #pythonaprox 3hr tentando achar o erro no meu codigo - tava rodando python 2 em vez de 3
+
+parabens p mim mais uma vez@tchaguitos Cara, eu tenho muitos cursos de python. Tua forma de explicar é sacanagem. Eu consigo entender. E olha q tenho mil cursos. Sucesso!Ps.: Eu AMO Python e foi uma das primeiras linguagens que aprendi, super gosto e recomendo!
+
+Meu ponto é "ao invés de criar competição e hate, fala das vantagens/desvantagens", você não precisa diminuir outra linguagem para dizer que Python é foda.RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@leonel_shadow Sim, agora mesmo tava tendo conversa sobre dados abertos com vereador Ivan Moraes do PSOL realizado por grupos relacionados com Python. Fora as iniciativas de inclusão como Afro Python, PyLadies entre outras com o objetivo de discutir a área.RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Gosto que grande parte da comunidade de Python é de esquerda.Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor que JS".
+
+Ao invés de criar competição entre linguagens, fala só das vantagens da linguagem, essa mania de diminuir algo para "crescer em cima" é péssimo!gente quem sabe mexer no python? me ajuda em um condigo PFVR@naoeniveldefibo @Cacomaia @OriqueFernando Bacana demais!! Esses meninos são fera demais! @PelissariSergio me deu um bizu do Python + Mql5 que me ajudou bastante. @OriqueFernando #mincina ! 🙏💫❤️"ain mas nao sabia q ia ter tanta programacao assim"
+
+disciplinas:  "Linguagem de Programação Aplicada: Programação em Python",  "Linguagem R"
+
+achou q ia ter o que???@johnsilvabr @Cacomaia Sim foi por python! Sem a ajuda do @OriqueFernando não teria saído nada, mas agora consigo gerar em qualquer tempo gráfico.Meta de 2021: terminar o ano sabendo muito bem Python, C, C#, MATLAB e outras linguagens. Python e C em andamento.configurando testes pra rodar sempre que rolar um push no develop e pull request pra main nas versoes 3.7, 3.8 e 3.9 do python no github actions em 30 linhas 🤯
+https://t.co/RrLDMig6waConteúdo muito bacana para quem quer aprender sobre análise de sentimentos com Python. 
+Aliás, adorei esse assunto e espero fazer mais coisas sobre em breve
+https://t.co/feXmOJ0WcORT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…@python_volley Também conhecido como Rigatoni.. é um tipo de macarrão. https://t.co/DRhzlegHtHboa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as alunas, a turma é desnivelada e conteúdo dado é conteúdo aprendido.
+Bom ela precisaria de uma pessoa monitora que saiba Python +@thiagoromariz Toda parte da ressurreição do Superman até a batalha final, eu achei ótima. Flash dobrando o tempo é fantástico. Toda parte antes disso é muito monótona. O epílogo é vergonhoso. Não há palavras pra descrever. Tão nonsense quanto o final de Monty Python e o Cálice Sagrado.Meu professor que tá ensinando python é péssimo, n explicou os conceitos, como utilizar comando, nada, maioria da turma nunca programou nada, e até eu, que já sabia um pouco, me fudi pra fazer as coisas, ele já foi explicar direto como fazer cálculos complexos, vsf112 anúncios publicados nas últimas 24 horas no ITJobs #java #.net #react #frontend #outsystems #python #sap #bi #cloud #devops https://t.co/IDQyaaetICtive que desinstalar o python umas 3 vezes? sim
+caguei a configuração do meu pycharm? óbvio
+vou ter que baixar as bibliotecas tudo de novo? claro
+
+mas o importante é que agora da pra brincar com Manim (aparentemente)RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @DicasdeInfra: A Google disponibilizou um programa de cursos integrados que ensinam desde o básico de suporte de TI, automação de TI com…@apertaoesc Eu já perdi amigo porque disse que não curti fazer app em Python com Kivy. 🤷‍♂️@GlairtonS Sim, claro. Dá pra fazer aplicação web com um monte de coisa kkkk
+
+Mas tô falando pra iniciantes mesmo. Python e JS ainda são as melhores (pelo menos pra mim) pra iniciantes aprenderem lógica. JAVA é relativamente confusoEu tenho vontade de aprender e dominar haskell, perl, golang, python e javascrip, php, html e tudo mais... mas ainda estou empacado em C e C++, muito difícil chegar ao estágio de poder dizer que "domina" uma linguagemE eu achando que o final de Monty Python e o Cálice Sagrado era nonsense. #SnyderCutRT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/wVktFLgqup
+
+venham!Eu acabei de descobrir que esse bot foi programado em python, eu sempre me emociono com essas coisas kkkkkkkk https://t.co/nDrFvyzBg8@ramalhoorg Enfim enquanto procurava seu nome até considerei, será que o Luciano seria a pessoa certa pra vir na minha empresa e fazer palestra e ensinar os meus funcionários sobre python? 
+
+Mas... Veio a resposta bem rápido. 
+
+Decepção.@ramalhoorg Mas eu te perdoo pelo que vc disse e fez. 
+
+Peço a Deus que faça o mesmo. 
+
+É sábado de manhã eu estava procurando um livro de python e fiquei feliz de ver um BR sendo recomendado pelos gringos. Mas vc não imagina a minha tristeza em ver esse seu comentário.os dicionários do python são ao mesmo tempo a melhor e a pior coisa da linguagem:
+
+- a melhor pq PUTS o TANTO de coisa que dá pra você fazer trabalhando com eles é imensa, parece q toda a linguagem gira em volta desses dicionários
+- a pior pq PUTS o tanto q é chatim tb...Faltou a última: 
+4) Python é muito melhor😅 https://t.co/SisgdWB6a6medo de conhecer o python e desistir de aprender as outras linguagens de programação...python é tão lindo &lt;3
+
+e honestamente acho que se não fosse pelo react (que eu amo), eu ia começar cagar pro javascript agora...python ou ps5? eis a questãoRT @imexpertsbrasil: Conheça o novo VerticaPy v0.5.
+
+Com o VerticaPy 0.5, é possível implementar modelos de Machine Learning aproveitando o…@wilcorrea Tem que ser muito fdp pra falar algo assim de verdade. Acho que ninguém tem esse direito tá ligado. Por exemplo, minha mãe é advogada por formação. Tá trabalhando com marketing digital agora mas já fez um código Python bolado pra fazer scrap de dados num site de e-sports.RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihW@glimmahstan Já já pedem 10 anos de experiência em Python e que tenha pós graduaçãoHoje dia de Aula para aprender Python, mas não tem Live de Among  :(Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…RT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9DjY8vTa
+
+#Java #Agile #DevOps #Python #Lean #QA #Cloud #MicroService #BlockChain #Kanban https://t.co/Z9A5O5UA4kRT @paanalytics1: 2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em http…@adriaantje_ Minha nossa, isso aí é roteiro de Monty Python, TV Pirata, Casseta e Planeta... Não é possível hahahhahhahahahhahRT @tchaguitos: Meu primeiro curso tá disponível na Udemy! 🎉
+
+Com ele você vai iniciar sua carreira como desenvolvedor web utilizando a lin…2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em https://t.co/7nRSrlUpJ6   #python #datascience #powerbi #datastudio #sql #analytics #datavis #tableau #udemy #hotmart #sympla #cursos #brasil #descontoRT @paanalytics1: 2021-03-20 11:00:06.061228 - Consultoria em Data Science e Analytics: Análise de Dados, Machine Learning, Construção de D…@Willian_justen Já recomendei vários cursos Python, Java e outras linguagens para amigos, mas posso ter certeza que esse curso ou produto não será o caso!meu olhos n brilham nem um pouco pra pythonRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Visualizando TWEETS com Nuvens de Palavras em Python | Python na Prática (Bom demais!!)Programe em Python News já saiu! https://t.co/hsk5vR6dIP Graças a @SciPyTipIntroduction of deep learning with python finalizada. Ainda meio capenga, mas acho que entendi o suficiente de Keras e como construir uma rede neural. Agora é ver uns vídeozinhos da batalha da aldeia enquanto a patroa não chega em casa.#365DaysOfCode #100DaysOfCode #Python #kaggle 79
+Principal Component Analysis (PCA): Intro
+#pythonprogramming for #DataScienceterminei meu projetinho em python 🥺🥺🥺🥺🥺@EnzoBolseiro TUDOO ? PQP CONSIDERO PAKAS MSM!
+depende, aplicações web javascript 
+interface java e python 
+pra fazer uns programinhas c e c++
+eu amo c++ já falei isso neah kkkkkk pq ????RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…eu não sou mto fã de MVC etc então não posso opinar se o do Django é o melhor/pior etc
+
+mas o do node com certeza é mais versátil (pra mim)
+
+porém talvez seja alguma limitação do django, talvez com o python puro seja diferente? talvez com algum framework do node mais fechado tb?ao contrário do meu BELOVED nodejs, o Django (e qualquer app python) armazena as dependências dentro da pasta venv (tal qual a node_module)
+
+a diferença é que vc precisa dessa venv pra rodar a aplicação, inclusive pra instalar dependências através do PIP (package manager)Esse fim de semana eu serei um Nerd feliz estudando coisas que eu gosto: Blockchain, BI, Costumes Experience Management, Design Thinking, DevOps &amp; Agile, Mobile Marketing, Python, Soluções Tecnológicas Emergentes e User Experience.
+
+A parte boa da quarentena. ♥️um tanto quanto complexo um projeto web no Python (pitãozim pros íntimo)RT @LiveDivulgador: ➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa ale…➡ @pachicodes está em Live neste momento!🔴
+
+[ptBR] Estudando Python, ou aprendendo Japones, ou fazendo alguma coisa aleatoria.
+
+Entra aí: https://t.co/XwJnOFm0SS
+
+#Twitch #live https://t.co/KOZYxl3ACWQual tipo de automação você tem ou gostaria de ter interagindo com #github 🐙?
+
+Criei algumas aqui https://t.co/qf4bqugCxp para agilizar o meu dia a dia e estou querendo completar a coleção com outras ideias para praticar com #python 🐍5 atividades com python pra fazer e eu nem lembro como criar uma classe nessa bosta, vou me j urgentemente ifma segure esse peso das costas https://t.co/f4gL7rQjW1@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Historiador em 1974: https://t.co/VMpfWkwdef@occfelipe nem sei se vale a pena começar por java, eu so comecei mais pelo python por causa de uns caras aq no twitter, so dps de uns 2 meses fui ver java e parei de tentar decorar coding quando fui na pratica@occfelipe um exemplo seria um encrypt/decrypt de algum codigo/chave, se ce ja tiver a base de alguma das "linhas", ja fica facil em python, em java é quase o mesmo, mas ele tem uns comandos especificos pra açoes maiores, ai o import fica que nem essa primeira, mas nao é grande diferença https://t.co/2InhJr9f05Olá pessoal, há um tempo eu criei publicações no Medium para auxiliar em trabalhos repetitivos realizados em nosso dia a dia e que podem ser agilizados com o uso do desenvolvimento. Vá lá conferir:
+- https://t.co/O0Xvc9X7yu
+- https://t.co/O1QpmpKe9L
+#Python  #DEVCommunity #dev@occfelipe tipo, se ce começar com python, fica meio de dificil de decorar java ou seila, mas dependeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@bochagas ahhh é de um rolê bem específico do python. Consegui tirar um loop, foi basicamente isso 🤙instalando Ubuntu de novo e me sentindo no primeiro ano novamente pq n lembro nada de python@alveselvis2 Não! Faz mais de um ano em que eu precisei escrever um loop em R. Em Python faz alguns meses, mas foi por preguiça mesmo.Minha orientadora passou uma atividade pra eu processar um sinal de voz usando python. Eu processei. Quando fui apresentar ela perguntou onde estava o gráfico com o resultado. Acontece que ela não pediu pra eu plotar o resultado, pediu pra eu processar. Ela pediu desculpas@KimJoaoUn "eu vejo um loop, eu tilto" -- vc não usa loops at all? que legal, nunca uso map, vou começar a só usar map/filter (python) pra treinar. adorei o texto!@andartolo *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+"O cartunista" em 1974: https://t.co/gDx8joISZeRT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@twtinvest Livro excelente com explicações matemáticas e códigos em Python https://t.co/yDxOmnCEYuMessias Recrutamento &amp; Seleção: Especialista Desenvolvedor(a) Python https://t.co/xaYlQG87wRVivi pra ver minha mãe rindo da piada do “Grandis Pintus” de Monty PythonRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qank@Willian_justen Ele se esqueceu de falar que JS está em tudo, e dependendo de que trilha Python os alunos dele irão seguir, vão ter que aprender JS hahaswitch case em python vai me ajudar tanto pqpRT @andartolo: *Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qankToda vez que eu leio "Phyton" em algum lugar, principalmente em material acadêmico, sinto que perco um pouco da minha humanidade. #Python*Monty Python Em Busca do Cálice Sagrado foi lançado em 1975*
+
+Coelho de Caerbannog em 1974: https://t.co/mXXDp6qanktudo tranquilo joão? vc acha mais tranquilo aprender SQL como primeira linguagem do que pegar R ou python pra apr… — Opa beleza. Acho mais tranquilo sim, complicado eh aplicar o conhecimento sem programar em nada. Mas sim, muito u… https://t.co/IDWYfi779BRT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…Todo dia isso. 🤦
+
+#linux #python #programador https://t.co/E0aSOqYcK9Se strings em Python são imutáveis, como conseguimos alterá-la com o método replace()? https://t.co/nZbTti6PQZ #pythonaprox 3hr tentando achar o erro no meu codigo - tava rodando python 2 em vez de 3
+
+parabens p mim mais uma vez@tchaguitos Cara, eu tenho muitos cursos de python. Tua forma de explicar é sacanagem. Eu consigo entender. E olha q tenho mil cursos. Sucesso!Ps.: Eu AMO Python e foi uma das primeiras linguagens que aprendi, super gosto e recomendo!
+
+Meu ponto é "ao invés de criar competição e hate, fala das vantagens/desvantagens", você não precisa diminuir outra linguagem para dizer que Python é foda.RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…@leonel_shadow Sim, agora mesmo tava tendo conversa sobre dados abertos com vereador Ivan Moraes do PSOL realizado por grupos relacionados com Python. Fora as iniciativas de inclusão como Afro Python, PyLadies entre outras com o objetivo de discutir a área.RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…RT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…RT @Willian_justen: Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor…Gosto que grande parte da comunidade de Python é de esquerda.Vejo uma propaganda de um cara falando sobre primeira vaga (ou seja, pessoas iniciantes) e manda um "Python é mt melhor que JS".
+
+Ao invés de criar competição entre linguagens, fala só das vantagens da linguagem, essa mania de diminuir algo para "crescer em cima" é péssimo!gente quem sabe mexer no python? me ajuda em um condigo PFVR@naoeniveldefibo @Cacomaia @OriqueFernando Bacana demais!! Esses meninos são fera demais! @PelissariSergio me deu um bizu do Python + Mql5 que me ajudou bastante. @OriqueFernando #mincina ! 🙏💫❤️"ain mas nao sabia q ia ter tanta programacao assim"
+
+disciplinas:  "Linguagem de Programação Aplicada: Programação em Python",  "Linguagem R"
+
+achou q ia ter o que???@johnsilvabr @Cacomaia Sim foi por python! Sem a ajuda do @OriqueFernando não teria saído nada, mas agora consigo gerar em qualquer tempo gráfico.Meta de 2021: terminar o ano sabendo muito bem Python, C, C#, MATLAB e outras linguagens. Python e C em andamento.configurando testes pra rodar sempre que rolar um push no develop e pull request pra main nas versoes 3.7, 3.8 e 3.9 do python no github actions em 30 linhas 🤯
+https://t.co/RrLDMig6waConteúdo muito bacana para quem quer aprender sobre análise de sentimentos com Python. 
+Aliás, adorei esse assunto e espero fazer mais coisas sobre em breve
+https://t.co/feXmOJ0WcORT @mari4_bunit4: boa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as…@python_volley Também conhecido como Rigatoni.. é um tipo de macarrão. https://t.co/DRhzlegHtHboa tarde devs
+queria pedir uma ajuda beeem grande pra uma amiga
+ela tem feito um bootcamp e existe pouco suporte para as alunas, a turma é desnivelada e conteúdo dado é conteúdo aprendido.
+Bom ela precisaria de uma pessoa monitora que saiba Python +@thiagoromariz Toda parte da ressurreição do Superman até a batalha final, eu achei ótima. Flash dobrando o tempo é fantástico. Toda parte antes disso é muito monótona. O epílogo é vergonhoso. Não há palavras pra descrever. Tão nonsense quanto o final de Monty Python e o Cálice Sagrado.Meu professor que tá ensinando python é péssimo, n explicou os conceitos, como utilizar comando, nada, maioria da turma nunca programou nada, e até eu, que já sabia um pouco, me fudi pra fazer as coisas, ele já foi explicar direto como fazer cálculos complexos, vsf112 anúncios publicados nas últimas 24 horas no ITJobs #java #.net #react #frontend #outsystems #python #sap #bi #cloud #devops https://t.co/IDQyaaetICtive que desinstalar o python umas 3 vezes? sim
+caguei a configuração do meu pycharm? óbvio
+vou ter que baixar as bibliotecas tudo de novo? claro
+
+mas o importante é que agora da pra brincar com Manim (aparentemente)RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @DicasdeInfra: A Google disponibilizou um programa de cursos integrados que ensinam desde o básico de suporte de TI, automação de TI com…@apertaoesc Eu já perdi amigo porque disse que não curti fazer app em Python com Kivy. 🤷‍♂️@GlairtonS Sim, claro. Dá pra fazer aplicação web com um monte de coisa kkkk
+
+Mas tô falando pra iniciantes mesmo. Python e JS ainda são as melhores (pelo menos pra mim) pra iniciantes aprenderem lógica. JAVA é relativamente confusoEu tenho vontade de aprender e dominar haskell, perl, golang, python e javascrip, php, html e tudo mais... mas ainda estou empacado em C e C++, muito difícil chegar ao estágio de poder dizer que "domina" uma linguagemE eu achando que o final de Monty Python e o Cálice Sagrado era nonsense. #SnyderCutRT @rodolfoviana: pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/…pessoal, no próximo sábado, às 9h, darei um workshop de webscraping com python no @gdgfoz.
+
+mais info aqui: https://t.co/wVktFLgqup
+
+venham!Eu acabei de descobrir que esse bot foi programado em python, eu sempre me emociono com essas coisas kkkkkkkk https://t.co/nDrFvyzBg8@ramalhoorg Enfim enquanto procurava seu nome até considerei, será que o Luciano seria a pessoa certa pra vir na minha empresa e fazer palestra e ensinar os meus funcionários sobre python? 
+
+Mas... Veio a resposta bem rápido. 
+
+Decepção.@ramalhoorg Mas eu te perdoo pelo que vc disse e fez. 
+
+Peço a Deus que faça o mesmo. 
+
+É sábado de manhã eu estava procurando um livro de python e fiquei feliz de ver um BR sendo recomendado pelos gringos. Mas vc não imagina a minha tristeza em ver esse seu comentário.os dicionários do python são ao mesmo tempo a melhor e a pior coisa da linguagem:
+
+- a melhor pq PUTS o TANTO de coisa que dá pra você fazer trabalhando com eles é imensa, parece q toda a linguagem gira em volta desses dicionários
+- a pior pq PUTS o tanto q é chatim tb...Faltou a última: 
+4) Python é muito melhor😅 https://t.co/SisgdWB6a6medo de conhecer o python e desistir de aprender as outras linguagens de programação...python é tão lindo &lt;3
+
+e honestamente acho que se não fosse pelo react (que eu amo), eu ia começar cagar pro javascript agora...python ou ps5? eis a questãoRT @imexpertsbrasil: Conheça o novo VerticaPy v0.5.
+
+Com o VerticaPy 0.5, é possível implementar modelos de Machine Learning aproveitando o…@wilcorrea Tem que ser muito fdp pra falar algo assim de verdade. Acho que ninguém tem esse direito tá ligado. Por exemplo, minha mãe é advogada por formação. Tá trabalhando com marketing digital agora mas já fez um código Python bolado pra fazer scrap de dados num site de e-sports.RT @andartolo: Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihW@glimmahstan Já já pedem 10 anos de experiência em Python e que tenha pós graduaçãoHoje dia de Aula para aprender Python, mas não tem Live de Among  :(Marcamos um encontro, mas ela não gosta de Monty Python. https://t.co/X7PRgTBihWRT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…RT @mariorez: Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9…Iniciando agora "Summit Online 2010", evento sobre Tecnologia 😁
+https://t.co/TqJ54YQrKX
+
+Inscrição gratuita:
+https://t.co/7x9DjY8vTa
+
+#Java #Agile #DevOps #Python #Lean #QA #Cloud #MicroService #BlockChain #Kanban https://t.co/Z9A5O5UA4kRT @paanalytics1: 2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em http…@adriaantje_ Minha nossa, isso aí é roteiro de Monty Python, TV Pirata, Casseta e Planeta... Não é possível hahahhahhahahahhahRT @tchaguitos: Meu primeiro curso tá disponível na Udemy! 🎉
+
+Com ele você vai iniciar sua carreira como desenvolvedor web utilizando a lin…2021-03-20 12:00:04.897485 - Quer descontos em nossos cursos de Data Science e Analytics? Responda nossa pesquisa em https://t.co/7nRSrlUpJ6   #python #datascience #powerbi #datastudio #sql #analytics #datavis #tableau #udemy #hotmart #sympla #cursos #brasil #descontoRT @paanalytics1: 2021-03-20 11:00:06.061228 - Consultoria em Data Science e Analytics: Análise de Dados, Machine Learning, Construção de D…
